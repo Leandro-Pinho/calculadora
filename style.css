@@ -1,0 +1,39 @@
+body {
+    background: rgb(197, 48, 48);
+    font-size: sans-serif, arial;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+#caixa {
+    background-color: white;
+    border-radius: .5rem;
+    width: 400px;
+    height: 200px;
+    margin: auto;
+    align-items: center;
+}
+
+#tAdi {
+    display: flex;
+    padding: 3rem;
+    justify-content: center;
+}
+
+input {
+    width: 50px;
+    margin: .1rem;
+    border: none;
+    text-align: center;
+}
+
+input num3 {
+    width: 30px;
+}
+
+#res {
+    margin: 20px 0px 0px 100px;
+}
